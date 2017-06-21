@@ -1,6 +1,7 @@
 # Chrome Developer Channel
 
-Progressive Web Application for viewing Google videos from youtube. Save it to your your phone to use as a native application.
+Progressive Web Application for viewing Google videos from youtube. Save it to your your phone to use as a native application.  
+This App can be viewed at [Chrome Dev Channel](https://chrome-dev-channel-286ac.firebaseapp.com/).
 
 ## Install the Polymer-CLI
 
