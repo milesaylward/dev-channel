@@ -1,0 +1,7 @@
+{
+  "name": "Chrome Developer Channel",
+  "short_name": "Chrome Developer Channel",
+  "description": "Videos for Developers",
+  "start_url": "/",
+  "display": "standalone"
+}
